@@ -17,4 +17,4 @@ If you really really want you could build the file yourself using the files incl
 
 ## License
 
-None officially but feel free to learn from it.
+CC0 License, feel free to learn from or incorporate in your own projects.
