@@ -6,9 +6,9 @@ Trying out creating a Minecraft mod for the first time. Hoping to get into biome
 
 ## Current Features
 
--Wooden Loot Crate with a full loot table\n
--Decorative version of the Wooden Loot Crate\n
--Ancient Fragment (No idea what I'm doing with this)
+-Wooden Loot Crate with a full loot table  
+-Decorative version of the Wooden Loot Crate  
+-Ancient Fragment (No idea what I'm doing with this)  
 
 ## Setup
 
