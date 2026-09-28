@@ -1,9 +1,20 @@
 # Hype Biomes
 
+## Description
+
+Trying out creating a Minecraft mod for the first time. Hoping to get into biome generation at some point, right now it's just some very small basic features.
+
+## Current Features
+
+-Wooden Loot Crate with a full loot table
+-Decorative version of the Wooden Loot Crate
+-Ancient Fragment (No idea what I'm doing with this)
+
 ## Setup
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Don't. I'll attach a mod file when I feel like it's worthy.
+If you really really want you could build the file yourself using the files included.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+None officially but feel free to learn from it.
